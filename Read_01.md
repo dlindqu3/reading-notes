@@ -1,5 +1,5 @@
 # Code 201 Reading Notes 
-### 1. pre-work reading notes
+### 1. Read: 01 - introductory HTML and JavaScript 
 
 ####  HTML notes 
 ####Jon Duckett: "HTML & CSS", 2011
