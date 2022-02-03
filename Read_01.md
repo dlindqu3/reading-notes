@@ -39,7 +39,7 @@ Chapter 18: process & design
 - consider: who the website is for, why people want to visit the website
 - organize website: you could draw out a site map 
 
-
+---
 
 ```
 #### JS notes 
