@@ -14,7 +14,7 @@ Chapter 18: process & design
 ```
 
 ```
-** Introduction ** 
+**Introduction**
 - current iterations: html 5, css 3 
 - main tools that allow the internet: browsers, servers, databases
 
