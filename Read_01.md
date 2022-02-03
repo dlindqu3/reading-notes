@@ -47,12 +47,11 @@ Chapter 18: process & design
 
 
 Chapters:   
-Introduction   
 Chapter 1: structure  
 
 
 **Chapter 1: structure** 
 - JS interpreter: browsers use an interpreter to convert JS code into material the computer can understand 
-- DOM: use the DOM to build pages that can respond to event
+- DOM: use the DOM to build pages that can respond to events
 - script tags: link HTML, CSS, and JS files with script tags
 
