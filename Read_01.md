@@ -21,8 +21,8 @@ Chapter 18: process & design
 **Chapter 1: structure**  
 - elements are usually made of two tags 
 - common tags: html, head, body, h1, p
-- tag structure: <body></body> 
-- attributes: <link rel='stylesheet' href='styles.css'> 
+- tag structure: ```<body></body>``` 
+- attributes: ```<link rel='stylesheet' href='styles.css'>``` 
 
 **Chapter 8: extra markup** 
 - comments: <!-- -->
