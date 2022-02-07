@@ -5,7 +5,7 @@
 ## Course level: 201 - Foundations of Software Development 
 
 ### 1. Read: 01 - Introductory HTML and JavaScript 
-### 2. 
+### 2. Read: 02 - HTML Text, CSS Introduction, and Basic JavaScript Instructions 
 ### 3. 
 ### 4. 
 ### 5. 
