@@ -4,8 +4,8 @@
 
 ## Course level: 201 - Foundations of Software Development 
 
-### 1. Class: 01 - Introductory HTML and JavaScript  [link](https://github.com/dlindqu3/reading-notes/blob/main/code_201_notes/read_01.md)
-### 2. Class: 02 - HTML Text, CSS Introduction, and Basic JavaScript Instructions  [link](https://github.com/dlindqu3/reading-notes/blob/main/code_201_notes/read_02.md) 
+### 1. Class: 01 - Introductory HTML and JavaScript  [link](https://github.com/dlindqu3/reading-notes/blob/main/code_201_notes/class_01.md)
+### 2. Class: 02 - HTML Text, CSS Introduction, and Basic JavaScript Instructions  [link](https://github.com/dlindqu3/reading-notes/blob/main/code_201_notes/class_02.md) 
 ### 3. 
 ### 4. 
 ### 5. 
