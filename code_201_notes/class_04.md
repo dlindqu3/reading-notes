@@ -35,7 +35,7 @@ Chapter 3 (86-99): functions, methods, and objects
 
 ```javascript 
 //named function 
-function areaSquare(length, width){
+function areaSquare(length, width){}
   return length * height; 
 }
 
@@ -73,5 +73,5 @@ function myFunc(){
 - improve collaboration 
 - learn from classmates
 - improve social skills
-- prepare for interviews
+- prepare for interviews 
 - prepare for work 
