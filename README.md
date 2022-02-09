@@ -6,7 +6,7 @@
 
 ### 1. Class: 01 - Introductory HTML and JavaScript  [link](https://github.com/dlindqu3/reading-notes/blob/main/code_201_notes/class_01.md)
 ### 2. Class: 02 - HTML Text, CSS Introduction, and Basic JavaScript Instructions  [link](https://github.com/dlindqu3/reading-notes/blob/main/code_201_notes/class_02.md) 
-### 3. 
+### 3. Class: 03 - HTML Lists, Control Flow with JS, and the CSS Box Model
 ### 4. 
 ### 5. 
 ### 6. 
