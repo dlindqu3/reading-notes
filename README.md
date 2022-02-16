@@ -11,7 +11,7 @@
 ### 5. Class 05: HTML Images, CSS Color, and Text [link](https://github.com/dlindqu3/reading-notes/blob/main/code_201_notes/class_05.md)
 ### 6. Class: 06 - JS Object Literals; The DOM [link](https://github.com/dlindqu3/reading-notes/blob/main/code_201_notes/class_06.md)
 ### 7. Class: 07 - HTML Tables, JS Constructor Functions [link](https://github.com/dlindqu3/reading-notes/blob/main/code_201_notes/class_07.md)
-### 8. 
+### 8. Class 08 - More CSS Layout [link](https://github.com/dlindqu3/reading-notes/blob/main/code_201_notes/class_08.md)
 ### 9. 
 ### 10. 
 ### 11. 
