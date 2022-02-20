@@ -14,7 +14,7 @@
 ### 8. Class 08 - More CSS Layout [link](https://github.com/dlindqu3/reading-notes/blob/main/code_201_notes/class_08.md)
 ### 9. Class 09 - Forms and Events [link](https://github.com/dlindqu3/reading-notes/blob/main/code_201_notes/class_09.md)
 ### 10. Class 10 - JS Debugging [link](https://github.com/dlindqu3/reading-notes/blob/main/code_201_notes/class_10.md)
-### 11. 
+### 11. Class 11 - Assorted Topics [link](https://github.com/dlindqu3/reading-notes/blob/main/code_201_notes/class_11.md)
 ### 12. 
 ### 13. 
 ### 14. 
