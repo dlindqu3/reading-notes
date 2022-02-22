@@ -1,5 +1,6 @@
 # Code 201 Reading Notes 
 ### 12. Read: 12 - Chart.js and Canvas 
+
 ####  Chart.js
 #### source: Sara Vieira, "Easily create stunning animated charts with chart.js", 2013 [link](https://www.webdesignerdepot.com/2013/11/easily-create-stunning-animated-charts-with-chart-js/)
 - chart.js is a JS plugin that uses HTML 5's canvas element to display a graph on the page 
