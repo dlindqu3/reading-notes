@@ -15,7 +15,7 @@
 ### 9. Class 09 - Forms and Events [link](https://github.com/dlindqu3/reading-notes/blob/main/code_201_notes/class_09.md)
 ### 10. Class 10 - JS Debugging [link](https://github.com/dlindqu3/reading-notes/blob/main/code_201_notes/class_10.md)
 ### 11. Class 11 - Assorted Topics [link](https://github.com/dlindqu3/reading-notes/blob/main/code_201_notes/class_11.md)
-### 12. Class 12 - Chart.js and Canvas [link]()
+### 12. Class 12 - Chart.js and Canvas [link](https://github.com/dlindqu3/reading-notes/blob/main/code_201_notes/class_12.md)
 ### 13. 
 ### 14. 
 ### 15. 
