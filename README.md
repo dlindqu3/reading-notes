@@ -17,7 +17,7 @@
 ### 11. Class 11 - Assorted Topics [link](https://github.com/dlindqu3/reading-notes/blob/main/code_201_notes/class_11.md)
 ### 12. Class 12 - Chart.js and Canvas [link](https://github.com/dlindqu3/reading-notes/blob/main/code_201_notes/class_12.md)
 ### 13. Class 13 - Local Storage [link](https://github.com/dlindqu3/reading-notes/blob/main/code_201_notes/class_13.md)
-### 14. 
+### 14. Class 14 - CSS Transforms, Transitions, and Animations [link](https://github.com/dlindqu3/reading-notes/blob/main/code_201_notes/class_14.md)
 ### 15. 
 
 
