@@ -16,7 +16,7 @@
 ### 10. Class 10 - JS Debugging [link](https://github.com/dlindqu3/reading-notes/blob/main/code_201_notes/class_10.md)
 ### 11. Class 11 - Assorted Topics [link](https://github.com/dlindqu3/reading-notes/blob/main/code_201_notes/class_11.md)
 ### 12. Class 12 - Chart.js and Canvas [link](https://github.com/dlindqu3/reading-notes/blob/main/code_201_notes/class_12.md)
-### 13. 
+### 13. Class 13 - Local Storage [link](https://github.com/dlindqu3/reading-notes/blob/main/code_201_notes/class_13.md)
 ### 14. 
 ### 15. 
 
