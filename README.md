@@ -2,6 +2,11 @@
 
 ## description: this webpage contains a table of contents for Dwight's reading notes from the Codefellows software engineering bootcamp. 
 
+# Courses: 
+## Code 201 - Foundations of Software Development 
+## Code 301 - Intermediate Software Development 
+
+
 ## Course level: 201 - Foundations of Software Development 
 
 ### 1. Class: 01 - Introductory HTML and JavaScript  [link](https://github.com/dlindqu3/reading-notes/blob/main/code_201_notes/class_01.md)
