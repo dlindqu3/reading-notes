@@ -24,4 +24,6 @@
 ### 14. Class 14 - CSS Transforms, Transitions, and Animations [link](https://github.com/dlindqu3/reading-notes/blob/main/code_201_notes/class_14.md)
 ### 15. 
 
-
+## Course level: 301 - Intermediate Software Development 
+### 1. Class: 01 -   [link]()
+### 1. Class: 02 - State and Props  [link] (https://github.com/dlindqu3/reading-notes/blob/main/code_301_notes/class_02.md)
