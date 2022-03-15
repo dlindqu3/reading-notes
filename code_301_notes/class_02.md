@@ -12,6 +12,10 @@
 - 3. correct order: constructor, render, componentDidMount, React Updates, componentWillUnmount
 - 4. the componentDidMount is used here to connect to the Youtube API 
 
+####  React State vs Props 
+####  source:  "React State Vs Props",  [link](https://www.youtube.com/watch?v=IYvD9oBCuJI)
+
+
 **React State vs Props**
 - 1. counters, titles/subtitles
 - 2. difference: props are handled outside of a component and passed into a component, while state  is handled inside of a component and you can update it inside a component
