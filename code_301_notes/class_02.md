@@ -17,3 +17,6 @@
 - 2. difference: props are handled outside of a component and passed into a component, while state  is handled inside of a component and you can update it inside a component
 - 3. we re-render our application when we change the state 
 - 4. things we could store in state: things that will update/re-render 
+
+## Things I want to know more about 
+- use cases for state 
