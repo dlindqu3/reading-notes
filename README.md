@@ -26,4 +26,5 @@
 
 ## Course level: 301 - Intermediate Software Development 
 ### 1. Class: 01 -   [link]()
-### 1. Class: 02 - State and Props  [link](https://github.com/dlindqu3/reading-notes/blob/main/code_301_notes/class_02.md)
+### 2. Class: 02 - State and Props  [link](https://github.com/dlindqu3/reading-notes/blob/main/code_301_notes/class_02.md)
+### 3. Class: 02 - Passing Functions as Props  [link]()
