@@ -28,3 +28,4 @@
 ### 1. Class: 01 -   [link]()
 ### 2. Class: 02 - State and Props  [link](https://github.com/dlindqu3/reading-notes/blob/main/code_301_notes/class_02.md)
 ### 3. Class: 03 - Passing Functions as Props  [link](https://github.com/dlindqu3/reading-notes/blob/main/code_301_notes/class_03.md)
+### 4. Class: 04 - React and Forms [link](https://github.com/dlindqu3/reading-notes/blob/main/code_301_notes/class_04.md)
