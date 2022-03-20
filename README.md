@@ -30,3 +30,4 @@
 ### 3. Class: 03 - Passing Functions as Props  [link](https://github.com/dlindqu3/reading-notes/blob/main/code_301_notes/class_03.md)
 ### 4. Class: 04 - React and Forms [link](https://github.com/dlindqu3/reading-notes/blob/main/code_301_notes/class_04.md)
 ### 5. Class: 05 - Putting it All Together [link](https://github.com/dlindqu3/reading-notes/blob/main/code_301_notes/class_05.md)
+### 6. Class: 06 - Node.js [link](https://github.com/dlindqu3/reading-notes/blob/main/code_301_notes/class_06.md)
