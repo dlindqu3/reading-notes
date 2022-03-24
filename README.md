@@ -33,3 +33,4 @@
 ### 6. Class: 06 - Node.js [link](https://github.com/dlindqu3/reading-notes/blob/main/code_301_notes/class_06.md)
 ### 7. Class: 07 - REST [link](https://github.com/dlindqu3/reading-notes/blob/main/code_301_notes/class_07.md)
 ### 8. Class: 08 - APIs [link](https://github.com/dlindqu3/reading-notes/blob/main/code_301_notes/class_08.md)
+### 9. Class: 09 - Functional Programming [link](https://github.com/dlindqu3/reading-notes/blob/main/code_301_notes/class_09.md)
