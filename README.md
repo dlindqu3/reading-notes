@@ -37,3 +37,4 @@
 ### 10. Class: 10 - In Memory Storage [link](https://github.com/dlindqu3/reading-notes/blob/main/code_301_notes/class_10.md)
 ### 11. Class: 11 - Mongo and Mongoose [link](https://github.com/dlindqu3/reading-notes/blob/main/code_301_notes/class_11.md)
 ### 12. Class: 12 - CRUD [link](https://github.com/dlindqu3/reading-notes/blob/main/code_301_notes/class_12.md)
+### 13. Class: 13 - More CRUD [link](https://github.com/dlindqu3/reading-notes/blob/main/code_301_notes/class_13.md)
