@@ -1,5 +1,5 @@
 # Code 301 Reading Notes 
-### 12. Read: 12 - More CRUD
+### 13. Read: 13 - More CRUD
 
 ####  source: Avelon Pang, "CRUD Operations Explained" [link](https://medium.com/geekculture/crud-operations-explained-2a44096e9c88)
 
