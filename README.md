@@ -5,6 +5,7 @@
 # Courses: 
 ## Code 201 - Foundations of Software Development 
 ## Code 301 - Intermediate Software Development 
+## Code 401 - Advanced Software Development in Python 
 
 ## Course level: 201 - Foundations of Software Development 
 
@@ -40,3 +41,6 @@
 ### 13. Class: 13 - More CRUD [link](https://github.com/dlindqu3/reading-notes/blob/main/code_301_notes/class_13.md)
 ### 14. Class: 14 - Diversity and inclusion in the tech industry [link](https://github.com/dlindqu3/reading-notes/blob/main/code_301_notes/class_14.md)
 ### 15. Class: 15 - Authentication [link](https://github.com/dlindqu3/reading-notes/blob/main/code_301_notes/class_15.md)
+
+## Course level: 401 - Advanced Software Development in Python
+### 1. Class: 01 - [link]()
