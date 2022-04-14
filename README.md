@@ -43,4 +43,4 @@
 ### 15. Class: 15 - Authentication [link](https://github.com/dlindqu3/reading-notes/blob/main/code_301_notes/class_15.md)
 
 ## Course level: 401 - Advanced Software Development in Python
-### 1. Class: 01 - [link]()
+### Pre-work - The growth mindset [link](https://github.com/dlindqu3/reading-notes/blob/main/code_401_notes/pre-work.md)
