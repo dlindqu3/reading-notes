@@ -45,3 +45,4 @@
 ## Course level: 401 - Advanced Software Development in Python
 ### Pre-work-sql - SQL practice [link](https://github.com/dlindqu3/reading-notes/blob/main/code_401_notes/pre-work-sql.md)
 ### Pre-work-growth - The growth mindset [link](https://github.com/dlindqu3/reading-notes/blob/main/code_401_notes/pre-work-growth.md)
+### 1. Class: 01 - Topic [link](https://github.com/dlindqu3/reading-notes/blob/main/code_401_notes/class_01.md)
