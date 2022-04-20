@@ -48,3 +48,4 @@
 ### 1. Class: 01 - Topic [link](https://github.com/dlindqu3/reading-notes/blob/main/code_401_notes/class_01.md)
 ### 2. Class: 02 - Testing and Modules [link](https://github.com/dlindqu3/reading-notes/blob/main/code_401_notes/class_02.md)
 ### 3. Class: 03 - FileIO & Exceptions [link](https://github.com/dlindqu3/reading-notes/blob/main/code_401_notes/class_03.md)
+### 4. Class: 04 - Topic [link](https://github.com/dlindqu3/reading-notes/blob/main/code_401_notes/class_04.md) 
