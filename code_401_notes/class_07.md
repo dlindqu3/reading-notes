@@ -10,7 +10,7 @@
   - nonlocal: 
     - these can be accessed from inner functions, but not assigned or updated 
 
-#### source: , "Don't be CONFUSED by BIG O notation anymore!" [link](https://www.youtube.com/watch?v=5Uqawfl0VHQ)
+#### source: "Don't be CONFUSED by BIG O notation anymore!" [link](https://www.youtube.com/watch?v=5Uqawfl0VHQ)
   - common Big O scores: 
     - O(1), O(logN), O(N), O(NlogN), O(N^k)
     - logarithmic complexity is typically efficient
