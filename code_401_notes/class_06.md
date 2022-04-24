@@ -17,6 +17,25 @@
   print random.randrange(0,20,3)
   ```
 
+#### source: Anamika Kalwan, "What is Risk Analysis in Software Testing and how to perform it?" [link](https://www.edureka.co/blog/risk-analysis-in-software-testing/)
+  - "risk" is the probability of any unwanted event 
+  - for software testing, risk analysis is the process of identifying risks in your application and prioritizing them to test 
+  - a "test plan" can help identify risks and their potential affects, as well as potential solutions 
+  - examples of possible risks- 
+    - new hardware 
+    - new tech 
+    - a new automation tool 
+    - the sequence of code 
+    - availability of test resources 
+  - focus resources on high-risk areas 
+    - high-risk: effects would be non-tolerable; the company might face a loss 
+    - medium: tolerable but not desirable; limited risk of financial loss
+    - low: tolerable; no risk of financial loss
+  - how to perform a risk analysis: 
+    - search for risks
+    - analyze the effects of each individual risk 
+    - list measures for each risk identified 
+
 #### source: Martin Fowler, "TestCoverage" [link](https://martinfowler.com/bliki/TestCoverage.html)
   - code coverage is also know as test coverage 
   - coverage analysis helps you determine which parts of the code aren't being tested 
