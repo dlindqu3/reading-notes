@@ -50,4 +50,4 @@
 ### 3. Class: 03 - FileIO & Exceptions [link](https://github.com/dlindqu3/reading-notes/blob/main/code_401_notes/class_03.md)
 ### 4. Class: 04 - Topic [link](https://github.com/dlindqu3/reading-notes/blob/main/code_401_notes/class_04.md) 
 ### 5. Linked Lists [link](https://github.com/dlindqu3/reading-notes/blob/main/code_401_notes/linked_lists.md)
-### 6. Ten Thousand Game 1 [link]()
+### 6. Ten Thousand Game 1 [link](https://github.com/dlindqu3/reading-notes/blob/main/code_401_notes/class_06.md)
