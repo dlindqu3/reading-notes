@@ -52,4 +52,4 @@
 ### 5. Linked Lists [link](https://github.com/dlindqu3/reading-notes/blob/main/code_401_notes/linked_lists.md)
 ### 6. Ten Thousand Game 1 [link](https://github.com/dlindqu3/reading-notes/blob/main/code_401_notes/class_06.md)
 ### 7. Ten Thousand 2 [link](https://github.com/dlindqu3/reading-notes/blob/main/code_401_notes/class_07.md)
-### 8. Ten Thousand 3 [link]()
+### 8. Ten Thousand 3 [link](https://github.com/dlindqu3/reading-notes/blob/main/code_401_notes/class_08.md)
