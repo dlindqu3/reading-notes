@@ -21,7 +21,7 @@ df.loc['blueberries'] #displays a row of data with index=blueberries
 
 df.iloc[0:99] #displays the first 100 rows 
 
-df[df["city"] > "Boston"] #displays rows with profit over 200 
+df[df["profit"] > 200] #displays rows with profit over 200 
 
 ```
 
