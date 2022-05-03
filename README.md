@@ -57,3 +57,4 @@
 ### 10. Stacks and Queues [link](https://github.com/dlindqu3/reading-notes/blob/main/code_401_notes/stacks_%26_queues.md)
 ### 11. Data Analysis [link](https://github.com/dlindqu3/reading-notes/blob/main/code_401_notes/class_11.md)
 ### 12. Pandas [link](https://github.com/dlindqu3/reading-notes/blob/main/code_401_notes/class_12.md)
+### 13. Linear Regression [link](https://github.com/dlindqu3/reading-notes/blob/main/code_401_notes/class_13.md)
