@@ -35,4 +35,4 @@ sns.jointplot(data=penguins, x="flipper_length_mm", y="bill_length_mm", hue="spe
 ```
 
 #### Things I want to know more about 
-- other libraries besides matplotlib and seaborn 
+- other visualization libraries besides matplotlib and seaborn 
