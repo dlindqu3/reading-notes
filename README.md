@@ -63,3 +63,4 @@
 ### 16. Serverless Functions [link](https://github.com/dlindqu3/reading-notes/blob/main/code_401_notes/class_16.md)
 ### 17. Web Scraping [link](https://github.com/dlindqu3/reading-notes/blob/main/code_401_notes/class_17.md)
 ### 18. Encryption [link](https://github.com/dlindqu3/reading-notes/blob/main/code_401_notes/class_18.md)
+### 19. Automation 
