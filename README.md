@@ -66,3 +66,4 @@
 ### 19. Automation [link](https://github.com/dlindqu3/reading-notes/blob/main/code_401_notes/class_19.md)
 ### 26. Intro to Django [link](https://github.com/dlindqu3/reading-notes/blob/main/code_401_notes/class_26.md)
 ### 27. Django Models [link](https://github.com/dlindqu3/reading-notes/blob/main/code_401_notes/class_27.md)
+### 28. Django CRUD and Forms [link](https://github.com/dlindqu3/reading-notes/blob/main/code_401_notes/class_28.md)
