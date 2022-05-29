@@ -67,5 +67,6 @@
 ### 26. Intro to Django [link](https://github.com/dlindqu3/reading-notes/blob/main/code_401_notes/class_26.md)
 ### 27. Django Models [link](https://github.com/dlindqu3/reading-notes/blob/main/code_401_notes/class_27.md)
 ### 28. Django CRUD and Forms [link](https://github.com/dlindqu3/reading-notes/blob/main/code_401_notes/class_28.md)
-### 31. Django REST Framework & Docker [link](https://github.com/dlindqu3/reading-notes/blob/main/code_401_notes/class_31.md)
 ### 30. hash tables [link](https://github.com/dlindqu3/reading-notes/blob/main/code_401_notes/hash_tables.md)
+### 31. Django REST Framework & Docker [link](https://github.com/dlindqu3/reading-notes/blob/main/code_401_notes/class_31.md)
+### 32. permissions and postgresql [link](https://github.com/dlindqu3/reading-notes/blob/main/code_401_notes/class_32.md)
