@@ -1,5 +1,5 @@
 # Code 401 Reading Notes 
-### 34. 
+### 34. API Deployment
 
 ####  source: "Configuring Django Settings: Best Practices" [link](https://djangostars.com/blog/configuring-django-settings-best-practices/)
 - problems with django settings.py files include: different environments, sensitive data, sharing settings between team members, and the fact that Django settings are written in python 
