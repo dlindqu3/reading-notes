@@ -71,4 +71,5 @@
 ### 31. Django REST Framework & Docker [link](https://github.com/dlindqu3/reading-notes/blob/main/code_401_notes/class_31.md)
 ### 32. permissions and postgresql [link](https://github.com/dlindqu3/reading-notes/blob/main/code_401_notes/class_32.md)
 ### 33. Authentication and Production Server [link](https://github.com/dlindqu3/reading-notes/blob/main/code_401_notes/class_33.md)
-### 34. 34. API Deployment [link](https://github.com/dlindqu3/reading-notes/blob/main/code_401_notes/class_34.md)
+### 34. API Deployment [link](https://github.com/dlindqu3/reading-notes/blob/main/code_401_notes/class_34.md)
+### 35. Graphs [link](https://github.com/dlindqu3/reading-notes/blob/main/code_401_notes/graphs.md)
