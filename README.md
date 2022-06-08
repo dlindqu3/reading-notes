@@ -76,3 +76,4 @@
 ### 36. DSA Review [link](https://github.com/dlindqu3/reading-notes/blob/main/code_401_notes/class_36.md)
 ### 37. React 1 [link](https://github.com/dlindqu3/reading-notes/blob/main/code_401_notes/class_37.md)
 ### 38. React 2 [link](https://github.com/dlindqu3/reading-notes/blob/main/code_401_notes/class_38.md)
+### 39. React 3 [link](https://github.com/dlindqu3/reading-notes/blob/main/code_401_notes/class_39.md)
